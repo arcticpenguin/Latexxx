@@ -5,6 +5,11 @@
 \contentsline {section}{\numberline {2}Math}{1}
 \contentsline {subsection}{\numberline {2.1}Inline Math}{1}
 \contentsline {subsection}{\numberline {2.2}Math Environments}{1}
-\contentsline {paragraph}{equation and matrices}{1}
-\contentsline {paragraph}{align}{1}
-\contentsline {section}{\numberline {3}Figures and Tables}{1}
+\contentsline {paragraph}{Equation and Matrices}{1}
+\contentsline {paragraph}{Align}{1}
+\contentsline {section}{\numberline {3}Figures}{1}
+\contentsline {section}{\numberline {4}Tables}{2}
+\contentsline {subsection}{\numberline {4.1}A Table}{2}
+\contentsline {subsection}{\numberline {4.2}Using package booktabs}{2}
+\contentsline {subsection}{\numberline {4.3}CSV Table}{2}
+\contentsline {section}{\numberline {5}Citation}{2}
